@@ -20,5 +20,6 @@ The Sentiment140 dataset contains 1.6 million tweets labeled with sentiments as 
 - Accuracy on Training Set: 99%
 - Accuracy on Test Set: 51%
 
+
 ## Learning Resources
-TWITTER SENTIMENT ANALYSIS (NLP) by GeeksforGeeks https://youtu.be/4YGkfAd2iXM?si=wje88p4GyyZ2hzPD
+https://youtu.be/4YGkfAd2iXM?si=wje88p4GyyZ2hzPD
