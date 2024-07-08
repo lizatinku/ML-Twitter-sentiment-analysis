@@ -4,7 +4,7 @@
 This project focuses on sentiment analysis of tweets using logistic regression. I utilized the Sentiment140 dataset from Kaggle, which consists of tweets labeled as positive or negative sentiments.
 
 Project Overview
-The main goals of this project are:
+##The main goals of this project are:
 
 Data Preprocessing: Cleaning and preprocessing the tweet data using Python, NLTK, and regular expressions.
 Logistic Regression Model: Training a logistic regression model to classify tweets into positive or negative sentiments.
