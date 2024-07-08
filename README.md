@@ -13,9 +13,9 @@ Evaluation: Assessing the model's performance on both training and test datasets
 ## Dataset
 The Sentiment140 dataset contains 1.6 million tweets labeled with sentiments as follows:
 
-0: Negative sentiment
-1: Positive sentiment
+- 0: Negative sentiment
+- 1: Positive sentiment
 
 ## Model Performance
-Accuracy on Training Set: 99%
-Accuracy on Test Set: 51%
+- Accuracy on Training Set: 99%
+- Accuracy on Test Set: 51%
