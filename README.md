@@ -1,6 +1,7 @@
 # ML-Twitter-sentimentanalysis
 This project focuses on sentiment analysis of tweets using logistic regression. I utilized the Sentiment140 dataset from Kaggle, which consists of tweets labeled as positive or negative sentiments.
 
+
 ## Project Overview
 The main goals of this project are:
 
