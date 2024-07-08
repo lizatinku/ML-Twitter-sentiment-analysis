@@ -5,9 +5,9 @@ This project focuses on sentiment analysis of tweets using logistic regression. 
 ## Project Overview
 The main goals of this project are:
 
-Data Preprocessing: Cleaning and preprocessing the tweet data using Python, NLTK, and regular expressions.
-Logistic Regression Model: Training a logistic regression model to classify tweets into positive or negative sentiments.
-Evaluation: Assessing the model's performance on both training and test datasets.
+- Data Preprocessing: Cleaning and preprocessing the tweet data using Python, NLTK, and regular expressions.
+- Logistic Regression Model: Training a logistic regression model to classify tweets into positive or negative sentiments.
+- Evaluation: Assessing the model's performance on both training and test datasets.
 
 
 ## Dataset
