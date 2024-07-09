@@ -1,4 +1,4 @@
-# ML-Twitter-sentimentanalysis
+# ML-Twitter-sentiment-analysis
 This project focuses on sentiment analysis of tweets using logistic regression. I utilized the Sentiment140 dataset from Kaggle, which consists of tweets labeled as positive or negative sentiments.
 
 
@@ -20,6 +20,3 @@ The Sentiment140 dataset contains 1.6 million tweets labeled with sentiments as 
 - Accuracy on Training Set: 99%
 - Accuracy on Test Set: 51%
 
-
-## Learning Resources
-https://youtu.be/4YGkfAd2iXM?si=wje88p4GyyZ2hzPD
